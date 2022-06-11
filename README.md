@@ -10,13 +10,13 @@ A web application that shows a list of studying cafes to users in order to book 
 
 
 ### Features:
-#### Allow a user to book a room at the cafe for a particular time and date
-#### Update a booking, for example if the user wants to change a booking time
-#### Add, update and delete a room or café by the admin
-#### Display a list of bookings for a given date
-#### Register and login (user | admin)
-#### Add comments, rate and image
-#### Get café by rate 5 or by name
+- Allow a user to book a room at the cafe for a particular time and date
+- Update a booking, for example if the user wants to change a booking time
+- Add, update and delete a room or café by the admin
+- Display a list of bookings for a given date
+- Register and login (user | admin)
+- Add comments, rate and image
+- Get café by rate 5 or by name
 
 
 ### Postman
