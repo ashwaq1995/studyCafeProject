@@ -19,7 +19,10 @@ A web application that shows a list of studying cafes to users in order to book 
 #### Get café by rate 5 or by name
 
 
-## Postman
+### Postman
 
 https://documenter.getpostman.com/view/21096472/Uz5NjD77
 
+### Heroku
+
+https://studycafeproject.herokuapp.com/ 
