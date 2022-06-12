@@ -25,4 +25,4 @@ https://documenter.getpostman.com/view/21096472/Uz5NjD77
 
 ### Heroku
 
-https://study-cafeproject.herokuapp.com/ 
+https://study-cafeapp.herokuapp.com/ 
